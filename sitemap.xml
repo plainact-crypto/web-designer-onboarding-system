@@ -1,21 +1,21 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://plainact-crypto.github.io/web-designer-onboarding-system/index.html</loc>
-</url>
-<url>
-<loc>https://plainact-crypto.github.io/web-designer-onboarding-system/web-designer-client-onboarding-checklist.html</loc>
-</url>
-<url>
-<loc>https://plainact-crypto.github.io/web-designer-onboarding-system/website-client-intake-questionnaire.html</loc>
-</url>
-<url>
-<loc>https://plainact-crypto.github.io/web-designer-onboarding-system/website-requirements-template.html</loc>
-</url>
-<url>
-<loc>https://plainact-crypto.github.io/web-designer-onboarding-system/web-design-scope-clarification.html</loc>
-</url>
-<url>
-<loc>https://plainact-crypto.github.io/web-designer-onboarding-system/client-asset-checklist-web-designers.html</loc>
-</url>
+  <url>
+    <loc>https://plainact-crypto.github.io/web-designer-onboarding-system/</loc>
+  </url>
+  <url>
+    <loc>https://plainact-crypto.github.io/web-designer-onboarding-system/web-designer-client-onboarding-checklist.html</loc>
+  </url>
+  <url>
+    <loc>https://plainact-crypto.github.io/web-designer-onboarding-system/website-client-intake-questionnaire.html</loc>
+  </url>
+  <url>
+    <loc>https://plainact-crypto.github.io/web-designer-onboarding-system/website-requirements-template.html</loc>
+  </url>
+  <url>
+    <loc>https://plainact-crypto.github.io/web-designer-onboarding-system/web-design-scope-clarification.html</loc>
+  </url>
+  <url>
+    <loc>https://plainact-crypto.github.io/web-designer-onboarding-system/client-asset-checklist-web-designers.html</loc>
+  </url>
 </urlset>
