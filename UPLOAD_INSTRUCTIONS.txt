@@ -1,0 +1,44 @@
+MAIN SITE UPGRADE UPLOAD INSTRUCTIONS
+
+Repository:
+plainact-crypto / web-designer-onboarding-system
+
+What it adds:
+- product/web-designer-client-onboarding-system.html
+- preview.html
+- resources.html
+- upgraded navigation
+- stronger CTAs
+- updated sitemap.xml
+- refreshed existing pages
+- blog pages retained
+
+How to upload:
+1. Download and unzip main-site-upgrade.zip.
+2. Open GitHub repository: plainact-crypto/web-designer-onboarding-system.
+3. Click Add file > Upload files.
+4. Drag ALL extracted files and folders into the upload area.
+   Important: drag the CONTENTS of the unzipped folder, not the ZIP file itself.
+   You should see index.html, style.css, sitemap.xml and folders product/ and blog/.
+5. Commit message:
+   Upgrade main SEO site structure
+6. Choose Commit directly to the main branch.
+7. Click Commit changes.
+8. Wait 2-5 minutes for GitHub Pages deployment.
+9. Test these URLs:
+   https://plainact-crypto.github.io/web-designer-onboarding-system/resources.html
+   https://plainact-crypto.github.io/web-designer-onboarding-system/preview.html
+   https://plainact-crypto.github.io/web-designer-onboarding-system/product/web-designer-client-onboarding-system.html
+10. In Google Search Console, open:
+   https://plainact-crypto.github.io/web-designer-onboarding-system/
+11. Go to Sitemaps and resubmit:
+   sitemap.xml
+12. Use URL Inspection > Request indexing for:
+   homepage
+   resources.html
+   preview.html
+   product/web-designer-client-onboarding-system.html
+   the five original landing pages
+
+Do not delete the Google verification HTML file already in the repository.
+Uploading this package will not delete it.
